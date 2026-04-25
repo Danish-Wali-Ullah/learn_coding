@@ -1,8 +1,12 @@
-Hi , 
-This is my first commit to github.
-This is text file
+Hi ,
 
-Good luck to all learners,
+
+This is code from second developer
+please cooperate
+==================
+
+This is my first commit to github.
+
 
 BR,
 Eng. Danish
